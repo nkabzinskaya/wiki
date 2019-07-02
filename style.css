@@ -1,0 +1,33 @@
+body {
+    width: 70%;
+    padding-left: 15%;
+    text-align: justify;
+}
+
+
+h1,h2,h3 {
+    padding-top: 1.5em;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+table td:first-child{
+    font-weight: bold;
+} 
+
+table,tr,th,td {
+    border: 1px solid black;
+    border-collapse: separate;
+}
+
+figcaption {
+    font-style: italic;
+}
+
+figure {
+    float: right;
+    margin: 30px 30px 10px 30px;
+}
